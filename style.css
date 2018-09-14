@@ -1,0 +1,31 @@
+body
+{
+background-color: darkred;
+}
+.imgleft{
+float: left;
+border-style: solid;
+margin: 20px;
+border-size: 2px;
+}
+
+.imgright{
+float: right;
+border-style: solid;
+margin: 20px;
+border-size: 2px; 	
+}
+
+.style1{
+font-size: 20px;
+font-style: italic;
+color: black;
+}
+
+.style2{
+font-size: 25px;	
+font-style:italic;
+color: black;
+}
+
+body
